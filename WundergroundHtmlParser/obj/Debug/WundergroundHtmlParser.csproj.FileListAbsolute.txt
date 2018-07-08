@@ -1,0 +1,10 @@
+C:\Users\keta\source\repos\WundergroundHtmlParser\WundergroundHtmlParser\bin\Debug\WundergroundHtmlParser.exe.config
+C:\Users\keta\source\repos\WundergroundHtmlParser\WundergroundHtmlParser\bin\Debug\WundergroundHtmlParser.exe
+C:\Users\keta\source\repos\WundergroundHtmlParser\WundergroundHtmlParser\bin\Debug\WundergroundHtmlParser.pdb
+C:\Users\keta\source\repos\WundergroundHtmlParser\WundergroundHtmlParser\obj\Debug\WundergroundHtmlParser.csprojResolveAssemblyReference.cache
+C:\Users\keta\source\repos\WundergroundHtmlParser\WundergroundHtmlParser\obj\Debug\WundergroundHtmlParser.csproj.CoreCompileInputs.cache
+C:\Users\keta\source\repos\WundergroundHtmlParser\WundergroundHtmlParser\obj\Debug\WundergroundHtmlParser.exe
+C:\Users\keta\source\repos\WundergroundHtmlParser\WundergroundHtmlParser\obj\Debug\WundergroundHtmlParser.pdb
+C:\Users\keta\source\repos\WundergroundHtmlParser\WundergroundHtmlParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\keta\source\repos\WundergroundHtmlParser\WundergroundHtmlParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\keta\source\repos\WundergroundHtmlParser\WundergroundHtmlParser\bin\Debug\HtmlAgilityPack.xml
